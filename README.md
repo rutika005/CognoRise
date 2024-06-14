@@ -2,7 +2,7 @@
 
 **COGNORISE INFOTECH UI/UX Design Internship**
 
-Welcome to the CODSOFT Internship Projects repository! This repository contains the work and projects completed during the CODSOFT internship program. The CODSOFT internship offers hands on experience in software development, focusing on real-world applications and enhancing technical skills through practical tasks.
+Welcome to the CgnoRise Internship Projects repository! This repository contains the work and projects completed during the CognoRise internship program. The CognoRise internship offers hands on experience in software development, focusing on real-world applications and enhancing technical skills through practical tasks.
 
 **Projects**
 
