@@ -19,3 +19,16 @@ Welcome to the CgnoRise Internship Projects repository! This repository contains
    - Hence, skillful typography and innovative design are pivotal in capturing the essence of the company effectively.
 
    - Project [BUSINESS CARD](https://www.canva.com/design/DAGIGnpWmpw/W_foLbK_ITgcoU0DycSqxQ/view?utm_content=DAGIGnpWmpw&utm_campaign=designshare&utm_medium=link&utm_source=editor#1)
+
+3)  E COMMERCE PRODUCT PAGE
+   
+   -  E-Commerce Product Page: Design a clean and user-friendly product page for an e-commerce website, highlighting key product details and facilitating smooth purchasing.
+   - User Understanding: Understand your target audience and their preferences.
+   -  Product Display: Present clear product images, allowing zooming for detailed views.
+   -   ProdAuct Information: Display essential details: name, price, description, and availability.
+   -   Call-to-Action: Place a prominent "Add to Cart" or "Buy Now" button for easy purchase.
+   -   Related Products: Suggest related items to encourage additional browsing.
+   -   Visual Hierarchy: Organize content with clear hierarchy for easy scanning.
+
+   - Project [E COMMERCE PRODUCT PAGE](https://www.figma.com/design/HeNJb91aX0oR3lHGJZ7atA/Task-5?node-id=0-1&t=u5jIjXOSCpJGKB1K-1)
+     
